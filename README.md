@@ -40,12 +40,13 @@ npm run dev
 # Open: http://localhost:5173
 ```
 
-```markdown
-## Author
 
-**Abdul Shadab Khan**  
+---
+
+### Author — Abdul Shadab Khan
+```markdown  
 GitHub: https://github.com/Shadabkhan2004  
 Email: abdulshadabkhan24@gmail.com
 
-```
+
 
