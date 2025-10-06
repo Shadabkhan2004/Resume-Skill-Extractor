@@ -26,3 +26,26 @@ Built with **FastAPI** (backend) and **React** (frontend).
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
+```
+## Frontend
+
+The frontend is a lightweight React app (Vite) that allows uploading a single resume and displays extracted skills.
+
+### Setup
+From the project root:
+```bash
+cd frontend
+npm install
+npm run dev
+# Open: http://localhost:5173
+```
+
+```markdown
+## Author
+
+**Abdul Shadab Khan**  
+GitHub: https://github.com/Shadabkhan2004  
+Email: abdulshadabkhan24@gmail.com
+
+```
+
